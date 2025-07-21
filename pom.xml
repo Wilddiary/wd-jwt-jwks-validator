@@ -28,7 +28,7 @@ the License.
     </parent>
 
     <groupId>com.wilddiary</groupId>
-    <artifactId>jwt-jwks-validator</artifactId>
+    <artifactId>wd-jwt-jwks-validator</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <url>https://github.com/Wilddiary/wd-jwt-jwks-validator.git</url>
