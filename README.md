@@ -33,7 +33,7 @@ mvn clean package
 ### Run
 
 ```bash
-java -jar target/jwt-jwks-validator-0.0.1-SNAPSHOT.jar
+java -jar target/wd-jwt-jwks-validator-1.0-SNAPSHOT.jar
 ```
 You will be prompted to enter:
 - JWKS URL (e.g., https://example.com/.well-known/jwks.json)
