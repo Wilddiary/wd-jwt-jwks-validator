@@ -28,19 +28,19 @@ the License.
     </parent>
 
     <groupId>com.wilddiary</groupId>
-    <artifactId>wd-jwt-jwks-validator</artifactId>
+    <artifactId>wd-jwt-jwks-verifier</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <url>https://github.com/Wilddiary/wd-jwt-jwks-validator.git</url>
+    <url>https://github.com/Wilddiary/wd-jwt-jwks-verifier.git</url>
     <scm>
-        <connection>scm:git:git://github.com/Wilddiary/wd-jwt-jwks-validator.git</connection>
-        <developerConnection>scm:git:ssh://github.com/Wilddiary/wd-jwt-jwks-validator.git</developerConnection>
+        <connection>scm:git:git://github.com/Wilddiary/wd-jwt-jwks-verifier.git</connection>
+        <developerConnection>scm:git:ssh://github.com/Wilddiary/wd-jwt-jwks-verifier.git</developerConnection>
         <tag>HEAD</tag>
-        <url>git://github.com/Wilddiary/wd-jwt-jwks-validator.git</url>
+        <url>git://github.com/Wilddiary/wd-jwt-jwks-verifier.git</url>
     </scm>
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/Wilddiary/wd-jwt-jwks-validator/issues</url>
+        <url>https://github.com/Wilddiary/wd-jwt-jwks-verifier/issues</url>
     </issueManagement>
 
     <properties>
